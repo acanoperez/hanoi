@@ -18,6 +18,7 @@ moves = 0
     
     Este sencillo algoritmo recurrente resuelve el problema de las torres de Hanoi.
     Modificación adrian Cano. Prueba curso GIT.
+    Segunda modificación.
 
 """
 
